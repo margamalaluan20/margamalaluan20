@@ -45,7 +45,7 @@ Pursuing a Diploma in Information Technology, and a scriptwriter crafting narrat
 ---
 
 ## 🎭 Creative Pursuits
-* **Pen Name:** MAGI (Wattpad Author)
+* **Pen Name:** MAGI (Wattpad and ShortStoriesLovers.com Author)
 * **Notable Work:** *"Our World is Poles Apart"* Coming Soon...
 
 ---
