@@ -112,7 +112,7 @@ Pursuing a Diploma in Information Technology, and a scriptwriter crafting narrat
 
   <a href="https://www.instagram.com/p/DaY3XCEEkBe/" target="_blank">
 
-    <img src="https://via.placeholder.com/280x280/161b22/1ebbd7?text=IG+Post+1" width="30%" style="border-radius: 8px;" />
+  <img src="https://via.placeholder.com/280x280/161b22/1ebbd7?text=IG+Post+1" width="30%" style="border-radius: 8px;" />
 
   </a>
 
@@ -120,7 +120,7 @@ Pursuing a Diploma in Information Technology, and a scriptwriter crafting narrat
 
   <a href="https://www.instagram.com/p/DSSN8WFktKV/" target="_blank">
 
-    <img src="https://via.placeholder.com/280x280/161b22/1ebbd7?text=IG+Post+2" width="30%" style="border-radius: 8px;" />
+  <img src="https://via.placeholder.com/280x280/161b22/1ebbd7?text=IG+Post+2" width="30%" style="border-radius: 8px;" />
 
   </a>
 
@@ -128,7 +128,7 @@ Pursuing a Diploma in Information Technology, and a scriptwriter crafting narrat
 
   <a href="https://www.instagram.com/p/DdLPaVinzWK/" target="_blank">
 
-    <img src="https://via.placeholder.com/280x280/161b22/1ebbd7?text=IG+Post+3" width="30%" style="border-radius: 8px;" />
+  <img src="https://via.placeholder.com/280x280/161b22/1ebbd7?text=IG+Post+3" width="30%" style="border-radius: 8px;" />
 
   </a>
 
@@ -150,19 +150,19 @@ Pursuing a Diploma in Information Technology, and a scriptwriter crafting narrat
 
   <a href="https://linkedin.com/in/margaret-loraine-malaluan-2a929623b" target="_blank">
 
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
 
   </a>
 
   <a href="mailto:margamalaluan20@gmail.com">
 
-    <img src="https://img.shields.io/badge/Gmail-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" />
+  <img src="https://img.shields.io/badge/Gmail-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" />
 
   </a>
 
   <a href="https://facebook.com/margaretloraine.malaluan" target="_blank">
 
-    <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white" />
+ <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white" />
 
   </a>
 
