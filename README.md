@@ -116,15 +116,11 @@ Pursuing a Diploma in Information Technology, and a scriptwriter crafting narrat
 
   </a>
 
-  &nbsp;
-
   <a href="https://www.instagram.com/p/DSSN8WFktKV/" target="_blank">
 
   <img src="https://via.placeholder.com/280x280/161b22/1ebbd7?text=IG+Post+2" width="30%" style="border-radius: 8px;" />
 
   </a>
-
-  &nbsp;
 
   <a href="https://www.instagram.com/p/DdLPaVinzWK/" target="_blank">
 
