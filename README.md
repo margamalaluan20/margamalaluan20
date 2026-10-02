@@ -1,166 +1,132 @@
 <div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=2BA3B8&height=180&section=header&text=Margaret%20Loraine%20Malaluan%20(MAGI)&fontSize=36&fontColor=ffffff&fontAlignY=35&descSize=16&descAlignY=60" width="100%" />
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=1EBCD6&height=180&section=header&text=Margaret%20Loraine%20Malaluan%20(MAGI)&fontSize=34&fontColor=ffffff&fontAlignY=35&desc=IT%20Student%20|%20Scriptwriter%20|%20Non-Voice%20ESL%20Tutor&descSize=16&descAlignY=60" width="100%" />
-
+  <a href="https://github.com/margamalaluan20">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2BA3B8&center=true&vCenter=true&width=700&lines=IT+Student+%7C+Tech+Enthusiast;Passionate+Scriptwriter+(MAGI);Non-Voice+ESL+Tutor" alt="Typing Animation" />
+  </a>
 </div>
-
-
 
 > *"Bridging the gap between logical programming and creative storytelling."*
 
+Hello, this is MAGI. I am a working student pursuing a Diploma in Information Technology, and a passionate scriptwriter crafting narratives under the pen name MAGI. By day, I studying and attending classes; by night, I design worlds and characters through words and working as Non-Voice ESL Tutor. Whether I am writing code or a new chapter, I believe every project is a story waiting to be told.
 
-
-Pursuing a Diploma in Information Technology, and a scriptwriter crafting narratives under the pen name **MAGI**.
-
-
+Outside of tech and writing, I love reading books, manwhas and watching animes and films especially sleeping.
 
 ---
 
+<h2><font color="#2BA3B8">🎬 Act I: Tech Stack & Comprehensive Skills</font></h2>
+<em>The tools, languages, and systems I use to bring digital concepts to life.</em>
 
-
-## 🛠️ Tech Stack & Comprehensive Skills
-
-
-
-### Programming, Web & Databases
-
+<h3><font color="#2BA3B8">💻 Programming, Web & Databases</font></h3>
 <p>
-
-  <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
-
-  <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
-
-  <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" />
-
-  <img src="https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white" />
-
-  <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
-
-  <img src="https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" />
-
-  <img src="https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=wordpress&logoColor=white" />
-
-  <img src="https://img.shields.io/badge/MySQL-%2300000F.svg?style=for-the-badge&logo=mysql&logoColor=white" />
-
-  <img src="https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" />
-
+  <img src="https://img.shields.io/badge/HTML5-2BA3B8?style=for-the-badge&logo=html5&logoColor=white&labelColor=161B22" />
+  <img src="https://img.shields.io/badge/CSS3-2BA3B8?style=for-the-badge&logo=css3&logoColor=white&labelColor=161B22" />
+  <img src="https://img.shields.io/badge/JavaScript-2BA3B8?style=for-the-badge&logo=javascript&logoColor=white&labelColor=161B22" />
+  <img src="https://img.shields.io/badge/TypeScript-2BA3B8?style=for-the-badge&logo=typescript&logoColor=white&labelColor=161B22" />
+  <img src="https://img.shields.io/badge/Python-2BA3B8?style=for-the-badge&logo=python&logoColor=white&labelColor=161B22" />
+  <img src="https://img.shields.io/badge/Java-2BA3B8?style=for-the-badge&logo=openjdk&logoColor=white&labelColor=161B22" />
+  <img src="https://img.shields.io/badge/C%23-2BA3B8?style=for-the-badge&logo=c-sharp&logoColor=white&labelColor=161B22" />
+  <img src="https://img.shields.io/badge/PHP-2BA3B8?style=for-the-badge&logo=php&logoColor=white&labelColor=161B22" />
+  <img src="https://img.shields.io/badge/WordPress-2BA3B8?style=for-the-badge&logo=wordpress&logoColor=white&labelColor=161B22" />
+  <img src="https://img.shields.io/badge/MySQL-2BA3B8?style=for-the-badge&logo=mysql&logoColor=white&labelColor=161B22" />
+  <img src="https://img.shields.io/badge/PostgreSQL-2BA3B8?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=161B22" />
 </p>
 
-
-
-### System & Network Administration
-
-* **Core & Server:** Windows Server 2022 Setup, Active Directory, GPO Implementation, DHCP/DNS, VirtualBox, Hardware/Software Maintenance, Folder/Directory Security, Server Monitoring, Windows Firewall, Logging/Auditing.
-
-* **Networking:** Cisco Packet Tracer, Wireshark, LAN Topology, IP Addressing, VLAN Configuration, Inter-VLAN Routing, Wi-Fi Modem/Router Configuration, Network Speed Testing, RJ45 LAN Cable Crimping & Termination.
-
-
-
-### Data Analysis, AI Prep & Design Tools
-
+<h3><font color="#2BA3B8">⚙️ System & Network Administration</font></h3>
 <p>
-
-  <img src="https://img.shields.io/badge/Power_BI-%23F2C811.svg?style=for-the-badge&logo=powerbi&logoColor=black" />
-
-  <img src="https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />
-
-  <img src="https://img.shields.io/badge/Blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white" />
-
-  <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=canva&logoColor=white" />
-
-  <img src="https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white" />
-
-  <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
-
-  <img src="https://img.shields.io/badge/GitLab-%23FC6D26.svg?style=for-the-badge&logo=gitlab&logoColor=white" />
-
-  <img src="https://img.shields.io/badge/VS_Code-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-
+  <img src="https://img.shields.io/badge/Windows_Server_2022-2BA3B8?style=for-the-badge&logo=windows&logoColor=white&labelColor=161B22" />
+  <img src="https://img.shields.io/badge/Active_Directory-2BA3B8?style=for-the-badge&logo=microsoft&logoColor=white&labelColor=161B22" />
+  <img src="https://img.shields.io/badge/GPO_Implementation-2BA3B8?style=for-the-badge&labelColor=161B22" />
+  <img src="https://img.shields.io/badge/DHCP_%2F_DNS-2BA3B8?style=for-the-badge&labelColor=161B22" />
+  <img src="https://img.shields.io/badge/VirtualBox-2BA3B8?style=for-the-badge&logo=virtualbox&logoColor=white&labelColor=161B22" />
+  <img src="https://img.shields.io/badge/Hardware_Maintenance-2BA3B8?style=for-the-badge&labelColor=161B22" />
+  <img src="https://img.shields.io/badge/Windows_Firewall-2BA3B8?style=for-the-badge&labelColor=161B22" />
+  <img src="https://img.shields.io/badge/Cisco_Packet_Tracer-2BA3B8?style=for-the-badge&logo=cisco&logoColor=white&labelColor=161B22" />
+  <img src="https://img.shields.io/badge/Wireshark-2BA3B8?style=for-the-badge&logo=wireshark&logoColor=white&labelColor=161B22" />
+  <img src="https://img.shields.io/badge/LAN_Topology-2BA3B8?style=for-the-badge&labelColor=161B22" />
+  <img src="https://img.shields.io/badge/VLAN_%26_Routing-2BA3B8?style=for-the-badge&labelColor=161B22" />
+  <img src="https://img.shields.io/badge/RJ45_Crimping-2BA3B8?style=for-the-badge&labelColor=161B22" />
 </p>
 
+<h3><font color="#2BA3B8">📊 Data Analysis, AI Prep & Research</font></h3>
+<p>
+  <img src="https://img.shields.io/badge/Power_BI-2BA3B8?style=for-the-badge&logo=powerbi&logoColor=white&labelColor=161B22" />
+  <img src="https://img.shields.io/badge/Data_Visualization-2BA3B8?style=for-the-badge&labelColor=161B22" />
+  <img src="https://img.shields.io/badge/DAX_%26_KPIs-2BA3B8?style=for-the-badge&labelColor=161B22" />
+  <img src="https://img.shields.io/badge/Dashboards_%26_Forecasting-2BA3B8?style=for-the-badge&labelColor=161B22" />
+  <img src="https://img.shields.io/badge/Data_Encoding-2BA3B8?style=for-the-badge&labelColor=161B22" />
+  <img src="https://img.shields.io/badge/AI_Training_Data_Prep-2BA3B8?style=for-the-badge&labelColor=161B22" />
+</p>
 
+<h3><font color="#2BA3B8">🎨 IDE & Design Tools</font></h3>
+<p>
+  <img src="https://img.shields.io/badge/Figma-2BA3B8?style=for-the-badge&logo=figma&logoColor=white&labelColor=161B22" />
+  <img src="https://img.shields.io/badge/Canva-2BA3B8?style=for-the-badge&logo=canva&logoColor=white&labelColor=161B22" />
+  <img src="https://img.shields.io/badge/Blender-2BA3B8?style=for-the-badge&logo=blender&logoColor=white&labelColor=161B22" />
+  <img src="https://img.shields.io/badge/Git-2BA3B8?style=for-the-badge&logo=git&logoColor=white&labelColor=161B22" />
+  <img src="https://img.shields.io/badge/GitLab-2BA3B8?style=for-the-badge&logo=gitlab&logoColor=white&labelColor=161B22" />
+  <img src="https://img.shields.io/badge/VS_Code-2BA3B8?style=for-the-badge&logo=visual-studio-code&logoColor=white&labelColor=161B22" />
+</p>
 
-* **Data & Analytics:** Power BI (Data Visualization/Modelling, DAX, KPIs, Interactive Dashboards, Forecasting, Maps), Data Management, Research, Data Encoding & Labeling, AI Training Data Preparation.
-
-* **IT Support, QA & Productivity:** Event Viewer, Disk Optimization, System Analysis (Belarc Advisor), File Backup Automation, Code Debugging, Verification Testing, Error Detection, Technical Troubleshooting, Hardware Diagnostics & Soldering Repair, Microsoft Office Suite.
-
-
+<h3><font color="#2BA3B8">🛠️ IT Support, QA & Productivity</font></h3>
+<p>
+  <img src="https://img.shields.io/badge/Event_Viewer-2BA3B8?style=for-the-badge&labelColor=161B22" />
+  <img src="https://img.shields.io/badge/System_Analysis-2BA3B8?style=for-the-badge&labelColor=161B22" />
+  <img src="https://img.shields.io/badge/Code_Debugging-2BA3B8?style=for-the-badge&labelColor=161B22" />
+  <img src="https://img.shields.io/badge/QA_Verification-2BA3B8?style=for-the-badge&labelColor=161B22" />
+  <img src="https://img.shields.io/badge/Tech_Troubleshooting-2BA3B8?style=for-the-badge&labelColor=161B22" />
+  <img src="https://img.shields.io/badge/Hardware_Diagnostics-2BA3B8?style=for-the-badge&labelColor=161B22" />
+  <img src="https://img.shields.io/badge/Microsoft_Office-2BA3B8?style=for-the-badge&logo=microsoft-office&logoColor=white&labelColor=161B22" />
+</p>
 
 ---
 
+<h2><font color="#2BA3B8">🖋️ Act II: Creative Pursuits & Beyond The Code</font></h2>
+<em>Where logic rests and imagination takes over.</em>
 
-
-## 🎭 Creative Pursuits
-
-* **Pen Name:** MAGI (Wattpad and ShortStoriesLovers.com Author)
-
-* **Notable Work:** *"Our World is Poles Apart"* Coming Soon...
-
-
+* **Screenwriting:** Participant in the Film Development Council of the Philippines (FDCP) Screenwriting and Visual Storytelling Workshop.
+* **Literature:** Author on Wattpad and ShortStoriesLovers.com under the pen name **MAGI**.
+  * 📖 *Notable Work:* *"Our World is Poles Apart"* (Coming Soon...)
+* **Esoteric Arts:** Face-to-face Aura reading services.
 
 ---
 
+<h2><font color="#2BA3B8">📸 Act III: Instagram Gallery</font></h2>
+> <em>Glimpses of my creative journey and daily life.</em>
 
+<div align="center">
+  <a href="https://www.instagram.com/p/DaY3XCEEkBe/" target="_blank">
+    <img src="https://via.placeholder.com/280x280/161b22/2BA3B8?text=IG+Post+1" width="30%" style="border-radius: 8px; border: 2px solid #2BA3B8;" />
+  </a>
+  &nbsp;
+  <a href="https://www.instagram.com/p/DSSN8WFktKV/" target="_blank">
+    <img src="https://via.placeholder.com/280x280/161b22/2BA3B8?text=IG+Post+2" width="30%" style="border-radius: 8px; border: 2px solid #2BA3B8;" />
+  </a>
+  &nbsp;
+  <a href="https://www.instagram.com/p/DdLPaVinzWK/" target="_blank">
+    <img src="https://via.placeholder.com/280x280/161b22/2BA3B8?text=IG+Post+3" width="30%" style="border-radius: 8px; border: 2px solid #2BA3B8;" />
+  </a>
+  
+  <br><br>
+  <b><a href="https://www.instagram.com/magi_raine_20/"><font color="#2BA3B8">Explore more on my Instagram (@magi_raine_20) ➔</font></a></b>
+</div>
 
-## 📸 Instagram Gallery
+---
 
-> *Glimpses of my creative journey and daily life.*
-
-
+<h2><font color="#2BA3B8">📫 Epilogue: Get In Touch</font></h2>
+<em>Let's collaborate on the next big project or story!</em>
 
 <p align="center">
-
-  <a href="https://www.instagram.com/p/DaY3XCEEkBe/" target="_blank">
-
-  <img src="https://via.placeholder.com/280x280/161b22/1ebbd7?text=IG+Post+1" width="30%" style="border-radius: 8px;" />
-
+  <a href="https://www.linkedin.com/in/margaret-loraine-malaluan-2a929623b" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-2BA3B8?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=161B22" />
   </a>
-
-  <a href="https://www.instagram.com/p/DSSN8WFktKV/" target="_blank">
-
-  <img src="https://via.placeholder.com/280x280/161b22/1ebbd7?text=IG+Post+2" width="30%" style="border-radius: 8px;" />
-
-  </a>
-
-  <a href="https://www.instagram.com/p/DdLPaVinzWK/" target="_blank">
-
-  <img src="https://via.placeholder.com/280x280/161b22/1ebbd7?text=IG+Post+3" width="30%" style="border-radius: 8px;" />
-
-  </a>
-
-</p>
-
-
-
-**[Explore more on my Instagram (@magi_raine_20) ➔](https://www.instagram.com/magi_raine_20/)**
-
-
-
----
-
-
-
-## 📫 Let's Connect
-
-<p>
-
-  <a href="https://linkedin.com/in/margaret-loraine-malaluan-2a929623b" target="_blank">
-
-  <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
-
-  </a>
-
   <a href="mailto:margamalaluan20@gmail.com">
-
-  <img src="https://img.shields.io/badge/Gmail-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" />
-
+    <img src="https://img.shields.io/badge/Gmail-2BA3B8?style=for-the-badge&logo=gmail&logoColor=white&labelColor=161B22" />
   </a>
-
-  <a href="https://facebook.com/margaretloraine.malaluan" target="_blank">
-
- <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white" />
-
+  <a href="https://web.facebook.com/margaretloraine.malaluan?_rdc=1&_rdr#" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-2BA3B8?style=for-the-badge&logo=facebook&logoColor=white&labelColor=161B22" />
   </a>
-
-</p> 
-
+  <a href="https://www.tiktok.com/@magi_raine_20" target="_blank">
+    <img src="https://img.shields.io/badge/TikTok-2BA3B8?style=for-the-badge&logo=tiktok&logoColor=white&labelColor=161B22" />
+  </a>
+</p>
