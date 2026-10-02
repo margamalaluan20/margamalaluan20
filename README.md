@@ -34,7 +34,7 @@ Outside of tech and writing, I love reading books, manwhas and watching animes a
 <p>
   <img src="https://img.shields.io/badge/Windows_Server_2022_Setup-2BA3B8?style=for-the-badge&logo=windows&logoColor=white&labelColor=161B22" />
   <img src="https://img.shields.io/badge/Active_Directory-2BA3B8?style=for-the-badge&logo=microsoft&logoColor=white&labelColor=161B22" />
-  <img src="https://img.shields.io/badge/GPO_Implementation-2BA3B8?style=for-the-badge&logo=microsoft&logoColor=white&labelColor=161B22" />
+  <img src="https://img.shields.io/badge/GPO_Implementation-2BA3B8?style=for-the-badge&logo=windows&logoColor=white&labelColor=161B22" />
   <img src="https://img.shields.io/badge/DHCP_%2F_DNS-2BA3B8?style=for-the-badge&logo=cloudflare&logoColor=white&labelColor=161B22" />
   <img src="https://img.shields.io/badge/VirtualBox-2BA3B8?style=for-the-badge&logo=virtualbox&logoColor=white&labelColor=161B22" />
   <img src="https://img.shields.io/badge/Hardware%2FSoftware_Maintenance-2BA3B8?style=for-the-badge&logo=ifixit&logoColor=white&labelColor=161B22" />
@@ -60,7 +60,7 @@ Outside of tech and writing, I love reading books, manwhas and watching animes a
 <h3><font color="#2BA3B8">📊 Data Analysis & AI Prep</font></h3>
 <p>
   <img src="https://img.shields.io/badge/Power_BI-2BA3B8?style=for-the-badge&logo=powerbi&logoColor=white&labelColor=161B22" />
-  <img src="https://img.shields.io/badge/Data_Visualization%2FModelling-2BA3B8?style=for-the-badge&logo=tableau&logoColor=white&labelColor=161B22" />
+  <img src="https://img.shields.io/badge/Data_Visualization%2FModelling-2BA3B8?style=for-the-badge&logo=powerbi&logoColor=white&labelColor=161B22" />
   <img src="https://img.shields.io/badge/DAX-2BA3B8?style=for-the-badge&logo=powerbi&logoColor=white&labelColor=161B22" />
   <img src="https://img.shields.io/badge/KPIs-2BA3B8?style=for-the-badge&logo=googlesheets&logoColor=white&labelColor=161B22" />
   <img src="https://img.shields.io/badge/Interactive_Dashboards-2BA3B8?style=for-the-badge&logo=grafana&logoColor=white&labelColor=161B22" />
@@ -84,7 +84,7 @@ Outside of tech and writing, I love reading books, manwhas and watching animes a
 
 <h3><font color="#2BA3B8">🛠️ IT Support, QA & Productivity</font></h3>
 <p>
-  <img src="https://img.shields.io/badge/Event_Viewer-2BA3B8?style=for-the-badge&logo=windowsterminal&logoColor=white&labelColor=161B22" />
+  <img src="https://img.shields.io/badge/Event_Viewer-2BA3B8?style=for-the-badge&logo=powershell&logoColor=white&labelColor=161B22" />
   <img src="https://img.shields.io/badge/Disk_Optimization-2BA3B8?style=for-the-badge&logo=windows&logoColor=white&labelColor=161B22" />
   <img src="https://img.shields.io/badge/System_Analysis_%28Belarc%29-2BA3B8?style=for-the-badge&logo=kalilinux&logoColor=white&labelColor=161B22" />
   <img src="https://img.shields.io/badge/File_Backup_Automation-2BA3B8?style=for-the-badge&logo=dropbox&logoColor=white&labelColor=161B22" />
@@ -93,7 +93,7 @@ Outside of tech and writing, I love reading books, manwhas and watching animes a
   <img src="https://img.shields.io/badge/Error_Detection-2BA3B8?style=for-the-badge&logo=sentry&logoColor=white&labelColor=161B22" />
   <img src="https://img.shields.io/badge/Technical_Troubleshooting-2BA3B8?style=for-the-badge&logo=stackoverflow&logoColor=white&labelColor=161B22" />
   <img src="https://img.shields.io/badge/Hardware_Diagnostics_%26_Soldering_Repair-2BA3B8?style=for-the-badge&logo=intel&logoColor=white&labelColor=161B22" />
-  <img src="https://img.shields.io/badge/Microsoft_Office_Suite-2BA3B8?style=for-the-badge&logo=microsoftoffice&logoColor=white&labelColor=161B22" />
+  <img src="https://img.shields.io/badge/Microsoft_Office_Suite-2BA3B8?style=for-the-badge&logo=microsoft&logoColor=white&labelColor=161B22" />
 </p>
 
 ---
