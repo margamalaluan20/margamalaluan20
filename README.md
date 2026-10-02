@@ -22,11 +22,9 @@ Outside of tech and writing, I love reading books, manwhas and watching animes a
   <img src="https://img.shields.io/badge/HTML5-2BA3B8?style=for-the-badge&logo=html5&logoColor=white&labelColor=161B22" />
   <img src="https://img.shields.io/badge/CSS3-2BA3B8?style=for-the-badge&logo=css3&logoColor=white&labelColor=161B22" />
   <img src="https://img.shields.io/badge/JavaScript-2BA3B8?style=for-the-badge&logo=javascript&logoColor=white&labelColor=161B22" />
-  <img src="https://img.shields.io/badge/TypeScript-2BA3B8?style=for-the-badge&logo=typescript&logoColor=white&labelColor=161B22" />
   <img src="https://img.shields.io/badge/Python-2BA3B8?style=for-the-badge&logo=python&logoColor=white&labelColor=161B22" />
   <img src="https://img.shields.io/badge/Java-2BA3B8?style=for-the-badge&logo=openjdk&logoColor=white&labelColor=161B22" />
   <img src="https://img.shields.io/badge/C%23-2BA3B8?style=for-the-badge&logo=csharp&logoColor=white&labelColor=161B22" />
-  <img src="https://img.shields.io/badge/PHP-2BA3B8?style=for-the-badge&logo=php&logoColor=white&labelColor=161B22" />
   <img src="https://img.shields.io/badge/WordPress-2BA3B8?style=for-the-badge&logo=wordpress&logoColor=white&labelColor=161B22" />
   <img src="https://img.shields.io/badge/MySQL-2BA3B8?style=for-the-badge&logo=mysql&logoColor=white&labelColor=161B22" />
   <img src="https://img.shields.io/badge/PostgreSQL-2BA3B8?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=161B22" />
@@ -34,27 +32,43 @@ Outside of tech and writing, I love reading books, manwhas and watching animes a
 
 <h3><font color="#2BA3B8">⚙️ System & Network Administration</font></h3>
 <p>
-  <img src="https://img.shields.io/badge/Windows_Server_2022-2BA3B8?style=for-the-badge&logo=windows&logoColor=white&labelColor=161B22" />
+  <img src="https://img.shields.io/badge/Windows_Server_2022_Setup-2BA3B8?style=for-the-badge&logo=windows&logoColor=white&labelColor=161B22" />
   <img src="https://img.shields.io/badge/Active_Directory-2BA3B8?style=for-the-badge&logo=microsoft&logoColor=white&labelColor=161B22" />
   <img src="https://img.shields.io/badge/GPO_Implementation-2BA3B8?style=for-the-badge&logo=microsoft&logoColor=white&labelColor=161B22" />
   <img src="https://img.shields.io/badge/DHCP_%2F_DNS-2BA3B8?style=for-the-badge&logo=cloudflare&logoColor=white&labelColor=161B22" />
   <img src="https://img.shields.io/badge/VirtualBox-2BA3B8?style=for-the-badge&logo=virtualbox&logoColor=white&labelColor=161B22" />
-  <img src="https://img.shields.io/badge/Hardware_Maintenance-2BA3B8?style=for-the-badge&logo=ifixit&logoColor=white&labelColor=161B22" />
+  <img src="https://img.shields.io/badge/Hardware%2FSoftware_Maintenance-2BA3B8?style=for-the-badge&logo=ifixit&logoColor=white&labelColor=161B22" />
+  <img src="https://img.shields.io/badge/Folder%2FDirectory_Security-2BA3B8?style=for-the-badge&logo=windows&logoColor=white&labelColor=161B22" />
+  <img src="https://img.shields.io/badge/Server_Monitoring-2BA3B8?style=for-the-badge&logo=datadog&logoColor=white&labelColor=161B22" />
   <img src="https://img.shields.io/badge/Windows_Firewall-2BA3B8?style=for-the-badge&logo=windows&logoColor=white&labelColor=161B22" />
+  <img src="https://img.shields.io/badge/Logging%2FAuditing-2BA3B8?style=for-the-badge&logo=splunk&logoColor=white&labelColor=161B22" />
+</p>
+
+<h3><font color="#2BA3B8">🌐 Networking</font></h3>
+<p>
   <img src="https://img.shields.io/badge/Cisco_Packet_Tracer-2BA3B8?style=for-the-badge&logo=cisco&logoColor=white&labelColor=161B22" />
   <img src="https://img.shields.io/badge/Wireshark-2BA3B8?style=for-the-badge&logo=wireshark&logoColor=white&labelColor=161B22" />
   <img src="https://img.shields.io/badge/LAN_Topology-2BA3B8?style=for-the-badge&logo=ubiquiti&logoColor=white&labelColor=161B22" />
-  <img src="https://img.shields.io/badge/VLAN_%26_Routing-2BA3B8?style=for-the-badge&logo=pfsense&logoColor=white&labelColor=161B22" />
-  <img src="https://img.shields.io/badge/RJ45_Crimping-2BA3B8?style=for-the-badge&logo=cisco&logoColor=white&labelColor=161B22" />
+  <img src="https://img.shields.io/badge/IP_Addressing-2BA3B8?style=for-the-badge&logo=cisco&logoColor=white&labelColor=161B22" />
+  <img src="https://img.shields.io/badge/VLAN_Configuration-2BA3B8?style=for-the-badge&logo=cisco&logoColor=white&labelColor=161B22" />
+  <img src="https://img.shields.io/badge/Inter--VLAN_Routing-2BA3B8?style=for-the-badge&logo=cisco&logoColor=white&labelColor=161B22" />
+  <img src="https://img.shields.io/badge/Wi--Fi_Modem%2FRouter_Config-2BA3B8?style=for-the-badge&logo=tp-link&logoColor=white&labelColor=161B22" />
+  <img src="https://img.shields.io/badge/Network_Speed_Testing-2BA3B8?style=for-the-badge&logo=speedtest&logoColor=white&labelColor=161B22" />
+  <img src="https://img.shields.io/badge/RJ45_Crimping_%26_Termination-2BA3B8?style=for-the-badge&logo=cisco&logoColor=white&labelColor=161B22" />
 </p>
 
-<h3><font color="#2BA3B8">📊 Data Analysis, AI Prep & Research</font></h3>
+<h3><font color="#2BA3B8">📊 Data Analysis & AI Prep</font></h3>
 <p>
   <img src="https://img.shields.io/badge/Power_BI-2BA3B8?style=for-the-badge&logo=powerbi&logoColor=white&labelColor=161B22" />
-  <img src="https://img.shields.io/badge/Data_Visualization-2BA3B8?style=for-the-badge&logo=tableau&logoColor=white&labelColor=161B22" />
-  <img src="https://img.shields.io/badge/DAX_%26_KPIs-2BA3B8?style=for-the-badge&logo=microsoftexcel&logoColor=white&labelColor=161B22" />
-  <img src="https://img.shields.io/badge/Dashboards_%26_Forecasting-2BA3B8?style=for-the-badge&logo=grafana&logoColor=white&labelColor=161B22" />
-  <img src="https://img.shields.io/badge/Data_Encoding-2BA3B8?style=for-the-badge&logo=json&logoColor=white&labelColor=161B22" />
+  <img src="https://img.shields.io/badge/Data_Visualization%2FModelling-2BA3B8?style=for-the-badge&logo=tableau&logoColor=white&labelColor=161B22" />
+  <img src="https://img.shields.io/badge/DAX-2BA3B8?style=for-the-badge&logo=powerbi&logoColor=white&labelColor=161B22" />
+  <img src="https://img.shields.io/badge/KPIs-2BA3B8?style=for-the-badge&logo=googlesheets&logoColor=white&labelColor=161B22" />
+  <img src="https://img.shields.io/badge/Interactive_Dashboards-2BA3B8?style=for-the-badge&logo=grafana&logoColor=white&labelColor=161B22" />
+  <img src="https://img.shields.io/badge/Forecasting-2BA3B8?style=for-the-badge&logo=googleanalytics&logoColor=white&labelColor=161B22" />
+  <img src="https://img.shields.io/badge/Maps-2BA3B8?style=for-the-badge&logo=googlemaps&logoColor=white&labelColor=161B22" />
+  <img src="https://img.shields.io/badge/Data_Management-2BA3B8?style=for-the-badge&logo=databricks&logoColor=white&labelColor=161B22" />
+  <img src="https://img.shields.io/badge/Research-2BA3B8?style=for-the-badge&logo=googlescholar&logoColor=white&labelColor=161B22" />
+  <img src="https://img.shields.io/badge/Data_Encoding_%26_Labeling-2BA3B8?style=for-the-badge&logo=json&logoColor=white&labelColor=161B22" />
   <img src="https://img.shields.io/badge/AI_Training_Data_Prep-2BA3B8?style=for-the-badge&logo=openai&logoColor=white&labelColor=161B22" />
 </p>
 
@@ -71,12 +85,15 @@ Outside of tech and writing, I love reading books, manwhas and watching animes a
 <h3><font color="#2BA3B8">🛠️ IT Support, QA & Productivity</font></h3>
 <p>
   <img src="https://img.shields.io/badge/Event_Viewer-2BA3B8?style=for-the-badge&logo=windowsterminal&logoColor=white&labelColor=161B22" />
-  <img src="https://img.shields.io/badge/System_Analysis-2BA3B8?style=for-the-badge&logo=kalilinux&logoColor=white&labelColor=161B22" />
+  <img src="https://img.shields.io/badge/Disk_Optimization-2BA3B8?style=for-the-badge&logo=windows&logoColor=white&labelColor=161B22" />
+  <img src="https://img.shields.io/badge/System_Analysis_%28Belarc%29-2BA3B8?style=for-the-badge&logo=kalilinux&logoColor=white&labelColor=161B22" />
+  <img src="https://img.shields.io/badge/File_Backup_Automation-2BA3B8?style=for-the-badge&logo=dropbox&logoColor=white&labelColor=161B22" />
   <img src="https://img.shields.io/badge/Code_Debugging-2BA3B8?style=for-the-badge&logo=jest&logoColor=white&labelColor=161B22" />
-  <img src="https://img.shields.io/badge/QA_Verification-2BA3B8?style=for-the-badge&logo=cypress&logoColor=white&labelColor=161B22" />
-  <img src="https://img.shields.io/badge/Tech_Troubleshooting-2BA3B8?style=for-the-badge&logo=stackoverflow&logoColor=white&labelColor=161B22" />
-  <img src="https://img.shields.io/badge/Hardware_Diagnostics-2BA3B8?style=for-the-badge&logo=intel&logoColor=white&labelColor=161B22" />
-  <img src="https://img.shields.io/badge/Microsoft_Office-2BA3B8?style=for-the-badge&logo=microsoftoffice&logoColor=white&labelColor=161B22" />
+  <img src="https://img.shields.io/badge/Verification_Testing-2BA3B8?style=for-the-badge&logo=cypress&logoColor=white&labelColor=161B22" />
+  <img src="https://img.shields.io/badge/Error_Detection-2BA3B8?style=for-the-badge&logo=sentry&logoColor=white&labelColor=161B22" />
+  <img src="https://img.shields.io/badge/Technical_Troubleshooting-2BA3B8?style=for-the-badge&logo=stackoverflow&logoColor=white&labelColor=161B22" />
+  <img src="https://img.shields.io/badge/Hardware_Diagnostics_%26_Soldering_Repair-2BA3B8?style=for-the-badge&logo=intel&logoColor=white&labelColor=161B22" />
+  <img src="https://img.shields.io/badge/Microsoft_Office_Suite-2BA3B8?style=for-the-badge&logo=microsoftoffice&logoColor=white&labelColor=161B22" />
 </p>
 
 ---
@@ -96,15 +113,15 @@ Outside of tech and writing, I love reading books, manwhas and watching animes a
 
 <div align="center">
   <a href="https://www.instagram.com/p/DaY3XCEEkBe/" target="_blank">
-    <img src="https://images.unsplash.com/photo-1498050108023-c5249f4df085?w=280&h=280&fit=crop" width="30%" style="border-radius: 8px; border: 2px solid #2BA3B8; object-fit: cover; aspect-ratio: 1/1;" alt="Tech Journey" />
+    <img src="https://via.placeholder.com/280x280/161b22/2BA3B8?text=IG+Post+1" width="30%" style="border-radius: 8px; border: 2px solid #2BA3B8;" />
   </a>
   &nbsp;
   <a href="https://www.instagram.com/p/DSSN8WFktKV/" target="_blank">
-    <img src="https://images.unsplash.com/photo-1455390582262-044cdead27d8?w=280&h=280&fit=crop" width="30%" style="border-radius: 8px; border: 2px solid #2BA3B8; object-fit: cover; aspect-ratio: 1/1;" alt="Writing Journey" />
+    <img src="https://via.placeholder.com/280x280/161b22/2BA3B8?text=IG+Post+2" width="30%" style="border-radius: 8px; border: 2px solid #2BA3B8;" />
   </a>
   &nbsp;
   <a href="https://www.instagram.com/p/DdLPaVinzWK/" target="_blank">
-    <img src="https://images.unsplash.com/photo-1544717297-fa95b6ee9643?w=280&h=280&fit=crop" width="30%" style="border-radius: 8px; border: 2px solid #2BA3B8; object-fit: cover; aspect-ratio: 1/1;" alt="Lifestyle" />
+    <img src="https://via.placeholder.com/280x280/161b22/2BA3B8?text=IG+Post+3" width="30%" style="border-radius: 8px; border: 2px solid #2BA3B8;" />
   </a>
   
   <br><br>
