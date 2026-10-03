@@ -6,7 +6,7 @@
   </a>
 </div>
 
-> *"Bridging the gap between logical programming and creative storytelling."*
+*"Bridging the gap between logical programming and creative storytelling."*
 
 Hello, this is MAGI. I am a working student pursuing a Diploma in Information Technology, and a passionate scriptwriter crafting narratives under the pen name MAGI. By day, I study and attend classes; by night, I design worlds and characters through words and work as a Non-Voice ESL Tutor. Whether I am writing code or a new chapter, I believe every project is a story waiting to be told.
 
@@ -14,7 +14,7 @@ Outside of tech and writing, I love reading books, manwhas and watching animes a
 
 ---
 
-<h2><font color="#2BA3B8">🎬 Act I: Tech Stack & Comprehensive Skills</font></h2>
+<h2><font color="#2BA3B8">🎬TECH STACK & COMPREHENSIVE SKILLS</font></h2>
 <em>The tools, languages, and systems I use to bring digital concepts to life.</em>
 
 <h3><font color="#2BA3B8">💻 Programming, Web & Databases</font></h3>
@@ -96,9 +96,19 @@ Outside of tech and writing, I love reading books, manwhas and watching animes a
   <img src="https://img.shields.io/badge/Microsoft_Office_Suite-2BA3B8?style=for-the-badge&logo=microsoft&logoColor=white&labelColor=161B22" />
 </p>
 
----
 
-<h2><font color="#2BA3B8">🖋️ Act II: Creative Pursuits & Beyond The Code</font></h2>
+
+<h2><font color="#2BA3B8">📊 GITHUB ANALYTICS & DEVELOPMENT ACTIVITY</font></h2>
+
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=margamalaluan20&show_icons=true&theme=dark&bg_color=161B22&title_color=2BA3B8&text_color=ffffff&icon_color=2BA3B8&border_color=2BA3B8&hide_border=false" height="165" alt="Margaret's GitHub Stats" />
+  &nbsp;&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=margamalaluan20&layout=compact&theme=dark&bg_color=161B22&title_color=2BA3B8&text_color=ffffff&icon_color=2BA3B8&border_color=2BA3B8&hide_border=false&langs_count=6" height="165" alt="Most Used Languages" />
+</p>
+
+
+<h2><font color="#2BA3B8">🖋️ CREATIVE PURSUITS & BEYOND THE CODE</font></h2>
 <em>Where logic rests and imagination takes over.</em>
 
 * **Screenwriting:** Participant in the Film Development Council of the Philippines (FDCP) Screenwriting and Visual Storytelling Workshop.
@@ -106,10 +116,9 @@ Outside of tech and writing, I love reading books, manwhas and watching animes a
   * 📖 *Notable Work:* *"Our World is Poles Apart"* (Coming Soon...)
 * **Esoteric Arts:** Face-to-face Aura reading services.
 
----
 
-<h2><font color="#2BA3B8">📸 Act III: Instagram Gallery</font></h2>
-> <em>Glimpses of my creative journey and daily life.</em>
+<h2><font color="#2BA3B8">📸 INSTAGRAM GALLERY</font></h2>
+<em>Glimpses of my creative journey and daily life.</em>
 
 <div align="center">
   <a href="https://www.instagram.com/p/DaY3XCEEkBe/" target="_blank">
@@ -128,10 +137,9 @@ Outside of tech and writing, I love reading books, manwhas and watching animes a
   <b><a href="https://www.instagram.com/magi_raine_20/"><font color="#2BA3B8">Explore more on my Instagram (@magi_raine_20) ➔</font></a></b>
 </div>
 
----
 
-<h2><font color="#2BA3B8">📫 Epilogue: Get In Touch</font></h2>
-<em>Let's collaborate on the next big project or story!</em>
+<h2><font color="#2BA3B8">📫 GET IN TOUCH</font></h2>
+
 
 <p align="center">
   <a href="https://www.linkedin.com/in/margaret-loraine-malaluan-2a929623b" target="_blank">
