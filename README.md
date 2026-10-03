@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=2BA3B8&height=180&section=header&text=Margaret%20Loraine%20Malaluan%20(MAGI)&fontSize=36&fontColor=ffffff&fontAlignY=35&descSize=16&descAlignY=60" width="100%" />
 
   <a href="https://github.com/margamalaluan20">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2BA3B8&center=true&vCenter=true&width=700&lines=IT+Student+%7C+Tech+Enthusiast;Passionate+Scriptwriter+(MAGI);Non-Voice+ESL+Tutor" alt="Typing Animation" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2BA3B8&center=true&vCenter=true&width=700&lines=IT+Student+%7C+Tech+Enthusiast;Passionate+Scriptwriter;Non-Voice+ESL+Tutor" alt="Typing Animation" />
   </a>
 </div>
 
