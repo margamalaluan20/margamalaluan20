@@ -125,7 +125,7 @@ Outside of tech and writing, I love reading books, manwhas and watching animes a
     <img src="https://via.placeholder.com/280x280/161b22/2BA3B8?text=IG+Post+1" width="30%" style="border-radius: 8px; border: 2px solid #2BA3B8;" />
   </a>
   &nbsp;
-  <a href="https://www.instagram.com/p/DSSN8WFktKV/" target="_blank">
+  <a href="https://www.instagram.com/p/De3nPkbn7yT/" target="_blank">
     <img src="https://via.placeholder.com/280x280/161b22/2BA3B8?text=IG+Post+2" width="30%" style="border-radius: 8px; border: 2px solid #2BA3B8;" />
   </a>
   &nbsp;
