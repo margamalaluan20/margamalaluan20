@@ -8,7 +8,7 @@
 
 *"Bridging the gap between logical programming and creative storytelling."*
 
-Hello, this is MAGI. I am a working student pursuing a Diploma in Information Technology, and a passionate scriptwriter crafting narratives under the pen name MAGI. By day, I study and attend classes; by night, I design worlds and characters through words and work as a Non-Voice ESL Tutor. Whether I am writing code or a new chapter, I believe every project is a story waiting to be told.
+Hello, this is MAGI. I am a working student pursuing a Diploma in Information Technology, and a passionate scriptwriter crafting narratives under the pen name MAGI. By day, I study and attend classes; by night, I design worlds and characters through words and work as a Non-Voice ESL Curriculum Scriptwriter. Whether I am writing code or a new chapter, I believe every project is a story waiting to be told.
 
 Outside of tech and writing, I love reading books, manwhas and watching animes and films especially sleeping.
 
